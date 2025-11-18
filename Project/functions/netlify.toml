@@ -1,0 +1,6 @@
+[build]
+  publish = "."                  # static files ka root
+  functions = "functions"        # backend functions folder
+
+[dev]
+  functions = "functions"        # local dev ke liye
